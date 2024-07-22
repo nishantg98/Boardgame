@@ -30,7 +30,7 @@ This project showcases a full-stack web application with a sign-up and login pag
 
 ![Screenshot from 2024-07-21 01-30-37](https://github.com/user-attachments/assets/ef854f57-479f-45ac-86cb-f0e5213f155b)
 
-![Screenshot from 2024-07-21 01-30-52](https://github.com/user-attachments/assets/96aa35cd-e25a-4f1b-bb2b-574ef0d8f12b)
+![Screenshot from 2024-07-21 01-31-04](https://github.com/user-attachments/assets/59bb6196-ab89-48b2-86db-d2b15dc6dc80)
 
 
 
@@ -80,10 +80,9 @@ This project showcases a full-stack web application with a sign-up and login pag
 
 ![Screenshot from 2024-07-21 01-32-25](https://github.com/user-attachments/assets/c6319a49-b84a-42dc-9d4c-177255c071a9)
 
-![Screenshot from 2024-07-21 01-32-25](https://github.com/user-attachments/assets/007d2b90-c0e2-453e-8e0b-e38e11a5e187)
+![Screenshot from 2024-07-21 01-33-52](https://github.com/user-attachments/assets/6681a065-d1fd-4a7d-9924-1d21c910d6ea)
 
 ![Screenshot from 2024-07-21 01-29-46](https://github.com/user-attachments/assets/b7b8d130-9688-4260-9456-033595d608cc)
-
 
 
 
